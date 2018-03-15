@@ -1,0 +1,25 @@
+body {
+	
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	color: #16214d;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+}
+
+header, main {
+	
+	padding: 20px 50px;
+	background: #49c0b6;
+
+}
+
+header ul, main ul {
+	
+	list-style-type: square;
+
+}
